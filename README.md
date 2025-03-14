@@ -4,3 +4,5 @@
 
 Para ejecutar el programa se debe pagar con tu alma eso y poner: 
 ```npm install react```
+
+Esto es una actualización
