@@ -6,3 +6,5 @@ Para ejecutar el programa se debe pagar con tu alma eso y poner:
 ```npm install react```
 
 Esto es una actualización
+
+<h3>En ente programa realmente se estuvo conociendo git y el funcionamiento de ramas y versiones</h3>
